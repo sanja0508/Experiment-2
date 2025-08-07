@@ -1,4 +1,4 @@
-# Experiment-1
+# Experiment-2
 Aim
 
 To understand and demonstrate the use of fundamental data types in C++ including integer, floating-point, double precision floating-point, character, and boolean types, and to display their values using basic input-output statements.
