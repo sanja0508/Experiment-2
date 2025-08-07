@@ -1,9 +1,9 @@
 # Experiment-2
-Aim
+AIM
 
 To understand and demonstrate the use of fundamental data types in C++ including integer, floating-point, double precision floating-point, character, and boolean types, and to display their values using basic input-output statements.
 
-Theory
+THEORY
 
 In C++, data types define the kind of data that variables can hold. The most common built-in data types include:
 
@@ -19,11 +19,11 @@ bool: Represents boolean values true or false, typically occupying 1 byte. It is
 
 Displaying values of these types demonstrates how C++ manages different data representations in memory and how they can be outputted to the console using the cout statement. This program also highlights the use of the ternary operator for conditional output, showcasing the expressive power of C++ syntax.
 
-Algorithm
+ALGORITHM
 
 I. Start the program. II. Declare and initialize an integer variable age with a value, e.g., 20. III. Declare and initialize a floating-point variable pi with a value, e.g., 3.14. IV. Declare and initialize a double precision floating-point variable distance with a value, e.g., 12345.678. V. Declare and initialize a character variable grade with a value, e.g., 'A'. VI. Declare and initialize a boolean variable passed with a value true. VII. Use the output stream (cout) to display the value of each variable with appropriate labels. VIII. For the boolean variable, use a conditional expression to print "Yes" if true, and "No" if false. IX. End the program.
 
-Conclusion
+CONCLUSION
 
 This program provides a clear and simple demonstration of basic data types in C++, essential for beginners to grasp how different types of data are stored and manipulated. Understanding these fundamental types is critical because they form the building blocks for all programming tasks, from simple calculations to complex data structures.
 
